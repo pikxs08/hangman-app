@@ -1,3 +1,31 @@
+# **How to Play Hangman**
+
+# **Objective:**
+Guess the hidden word by entering letters. Each correct guess reveals letters in the word, while each incorrect guess adds a part to the hangman figure. You have 10 tries to guess the word correctly before the hangman is fully drawn.
+
+# **Game Rules:**
+Guess the Word: Enter letters into the input field to guess the hidden word. The word is randomly chosen from a predefined list.
+
+Letter Input: Type a letter and press Enter or click the "Guess" button to submit your guess. Only letters from A to Z are valid inputs.
+
+Correct Guesses: If your guessed letter is in the hidden word, it will be revealed in its correct position(s).
+
+Incorrect Guesses: If your guessed letter is not in the hidden word, a part of the hangman figure will be drawn. You have 10 incorrect guesses before the game ends.
+
+Winning: If you correctly guess all the letters in the word before making 10 incorrect guesses, you win the game.
+
+Losing: If you make 10 incorrect guesses before guessing the word correctly, the hangman figure will be fully drawn, and you lose the game.
+
+Play Again:
+If you want to play again, simply click the "Play Again" button. This will reset the game, allowing you to start a new round with a new word.
+
+Tips:
+Start with common vowels (e.g., A, E, I, O, U) as they are often present in words.
+Pay attention to the revealed letters and try to guess the word based on the visible pattern.
+Have Fun and Good Luck!
+
+---------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
